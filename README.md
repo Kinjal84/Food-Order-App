@@ -1,2 +1,2 @@
 # Food-Order-App
-It is selecting food and ordering ( Udemy course practice )
+It is about selecting food and ordering ( Udemy course practice )
